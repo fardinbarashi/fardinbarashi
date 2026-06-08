@@ -1,10 +1,11 @@
 ## Hi there, I'm Fardin Barashi 👋
 
 ### Identity & Access Management | Microsoft 365 | Entra ID | PowerShell | C#
-Welcome to my GitHub profile
+```
+Welcome to my GitHub profile.
 Here you will find a collection of my projects, contributions, and a bit about my journey in the tech world.
-
 I work with identity management, automation, Microsoft cloud technologies, and infrastructure. My focus is on building efficient solutions that simplify administration, improve security, and reduce manual work.
+```
 
 ### Core Competencies
 ```
