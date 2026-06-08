@@ -1,29 +1,44 @@
-## Hi there 👋
-
 ## Hi there, I'm Fardin Barashi 👋
+
+### Identity & Access Management | Microsoft 365 | Entra ID | PowerShell | C#
+Welcome to my GitHub profile
+Here you will find a collection of my projects, contributions, and a bit about my journey in the tech world.
+
+I work with identity management, automation, Microsoft cloud technologies, and infrastructure. My focus is on building efficient solutions that simplify administration, improve security, and reduce manual work.
+
+### Core Competencies
+```
+Identity & Access Management (IAM)
+Microsoft Entra ID
+Microsoft 365
+Active Directory
+PowerShell
+C#
+Windows Server
+Intune
+Azure
+```
 
 ![GitHub followers](https://img.shields.io/github/followers/fardinbarashi?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/fardinbarashi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-Welcome to my GitHub profile Public Repos! 
-This Repository's is the folder where i publish all of my public repos.
-Here you will find a collection of my projects, contributions, and a bit about my journey in the tech world.
 
-## 🧑‍💻 About Me
-Loves walks in the forrest with the dog Amstaff, optimizing systems and finding creative solutions in code.
 
-# Skills
-IAM, C#, PowerShell, and Windows Server systems / M365
+### Current Projects
+#### C# :
+```
+##### 1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor.
+##### 1.1) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
+```
 
-### - 🔭 I’m currently working on
-##### 1). HR Onboarding, Easy on-off boarding IAM-tool in C# for EntraID
-##### 1.1) Groupviewer for EntraID ( Create a webdashboard where group-manager can manage the ad-groups that they own. )
-##### 2). ServerWatcher, A way to monitor services, diskspace, health and create maps onprem servern in C# and Powershell
-##### 3). AzureTenetServiceChecker, The name should tell what the app does. C# and Powershell
-##### 4). ToDo-Helper, A app to remind you if object is going to expire soon. C# and Powershell
-##### 6.) Automate systemdocumation for installed servers with windwos roles
 
-## 🚀 Technologies & Tools
+#### PS :
+```
+##### 1). Calender-reminder, replacement for cal-reminder. 
+##### 2). Entra-Inventory, A solution for exporting, documenting, and visualizing Entra ID configurations and relationships.
+##### 3).Automated documentation of Windows Servers, installed roles, and configurations.
+```
+## 🚀 Technologies & Toolsa
 ![C#](https://img.shields.io/badge/Csharp-svg)
 ![Powershell#](https://img.shields.io/badge/powershell-svg)
 ![Blazor](https://img.shields.io/badge/Blazor-svg)
