@@ -19,8 +19,6 @@ Windows Server
 Intune
 Azure
 ```
-
-![GitHub followers](https://img.shields.io/github/followers/fardinbarashi?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/fardinbarashi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 
