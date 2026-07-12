@@ -33,7 +33,6 @@ Azure
 
 #### PS :
 ```
-##### 1). Calender-reminder, replacement for cal-reminder. 
 ##### 2). Entra-Inventory, A solution for exporting, documenting, and visualizing Entra ID configurations and relationships.
 ##### 3).Automated documentation of Windows Servers, installed roles, and configurations.
 ```
@@ -43,11 +42,16 @@ Azure
 ##### 1)  Search after content in text-files : ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace)
 ![](https://github.com/fardinbarashi/psGuiTextTrace/blob/main/Assets/2.jpg)
 ##### 2). Remote-Remove local profiles on win11 and win10 : ![Rolf](https://github.com/fardinbarashi/psGuiAndScriptRolf)
+
 ![](https://github.com/fardinbarashi/psGuiAndScriptRolf/blob/main/Assets/7.jpg)
 ##### 3). Encrypt files with password : [FileEncrypter](https://github.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt) 
 
 ##### 4). PowerOIDC is a XAML-Tool for testing OpenID Connect (OIDC) flows from a Windows client : ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC)
 ![](https://github.com/fardinbarashi/psGuiPowerOIDC/blob/main/assets/1.jpg)
+
+##### 5). psToDo is a tool, powerShell solution that watches expiry dates in a JSON file and alerts a team by mail and Microsoft Teams before things lapse.
+##### upgrade-notifcations to teams, certificates, secrets, tokens, host keys, license deadline and much more ![psToDo](https://github.com/fardinbarashi/psToDo)
+![](https://github.com/fardinbarashi/psToDo/blob/main/img/webdashboard.jpg)
 
 ## 🚀 Technologies & Tool
 ![C#](https://img.shields.io/badge/Csharp-svg)
