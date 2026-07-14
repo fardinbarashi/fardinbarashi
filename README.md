@@ -26,15 +26,15 @@ Azure
 ### Current Projects
 #### C# :
 ```
-##### 1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor.
-##### 1.1) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
+ 1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor.
+ 1.1) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
 ```
 
 
 #### PS :
 ```
-##### 2). Entra-Inventory, A solution for exporting, documenting, and visualizing Entra ID configurations and relationships.
-##### 3).Automated documentation of Windows Servers, installed roles, and configurations.
+ 2). Entra-Inventory, A solution for exporting, documenting, and visualizing Entra ID configurations and relationships.
+ 3).Automated documentation of Windows Servers, installed roles, and configurations.
 ```
 
 #### Some links projects :
