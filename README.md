@@ -39,17 +39,16 @@ Azure
 
 #### Some links projects :
 
-##### 1)  Search after content in text-files : ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace)
+##### 1)  ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace) : Search after content in text-files
 ![](https://github.com/fardinbarashi/psGuiTextTrace/blob/main/Assets/2.jpg)
-##### 2). Remote-Remove local profiles on win11 and win10 : ![Rolf](https://github.com/fardinbarashi/psGuiAndScriptRolf)
-
+##### 2). ![Rolf](https://github.com/fardinbarashi/psGuiAndScriptRolf) : Remote-Remove local profiles on win11 and win10
 ![](https://github.com/fardinbarashi/psGuiAndScriptRolf/blob/main/Assets/7.jpg)
-##### 3). Encrypt files with password : [FileEncrypter](https://github.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt) 
+##### 3). [FileEncrypter](https://github.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt)  : Encrypt files with password
 
-##### 4). PowerOIDC is a XAML-Tool for testing OpenID Connect (OIDC) flows from a Windows client : ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC)
+##### 4). ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC) : is a XAML-Tool for testing OpenID Connect (OIDC) flows from a Windows client
 ![](https://github.com/fardinbarashi/psGuiPowerOIDC/blob/main/assets/1.jpg)
 
-##### 5). psToDo is a tool, powerShell solution that watches expiry dates in a JSON file and alerts a team by mail and Microsoft Teams before things lapse.
+##### 5). ![psToDo](https://github.com/fardinbarashi/psToDo) : is a tool, powerShell solution that watches expiry dates in a JSON file and alerts a team by mail and Microsoft Teams before things lapse.
 - upgrade-notifcations to teams
 - certificates
 - secrets
@@ -57,7 +56,6 @@ Azure
 - host keys
 - license deadline and much more
 
-##### ![psToDo](https://github.com/fardinbarashi/psToDo)
 ![](https://github.com/fardinbarashi/psToDo/blob/main/img/wwebdashboard.jpg)
 
 ## 🚀 Technologies & Tool
