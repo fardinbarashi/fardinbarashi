@@ -1,43 +1,77 @@
-## Hi there, I'm Fardin Barashi 
 
-### Identity & Access Management | Microsoft 365 | Entra ID | PowerShell | C#
-```
-Welcome to my GitHub profile.
-Here you will find a collection of my projects, contributions, and a bit about my journey in the tech world.
-I work with identity management, automation, Microsoft cloud technologies, and infrastructure. My focus is on building efficient solutions that simplify administration, improve security, and reduce manual work.
-```
+# Welcome to My GitHub
 
-### Core Competencies
-```
-Identity & Access Management (IAM)
-Microsoft Entra ID
-Microsoft 365
-Active Directory
-PowerShell
-C#
-Windows Server
-Intune
-Azure
-```
+Hi, I’m Fardin — a developer and IT professional based in Sweden.
+Most of my projects are created to solve real administrative and technical problems. I focus on replacing repetitive, time-consuming, and error-prone manual processes with reliable scripts, applications, and automation tools.
+Most projects begin with a simple question:
+> **Why are we still doing this manually?**
+
+## What You’ll Find Here
+I build practical tools and automation primarily around:
+
+My projects may include tools for:
+* Microsoft Entra ID administration
+* Employee onboarding and offboarding
+* Identity and Access Management
+* Microsoft 365 automation
+* User, group, and membership management
+* Authentication and authorization testing
+* Certificate and secret monitoring
+* Windows Server administration
+* Environment inventory and documentation
+* File management and encryption
+* Local Windows profile management
+* General PowerShell and C# automation
+
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+![Identity and Access Management](https://img.shields.io/badge/Identity%20%26%20Access%20Management-6A5ACD?style=flat&logo=auth0&logoColor=white)
+![Cloud Administration](https://img.shields.io/badge/Cloud%20Administration-0089D6?style=flat&logo=icloud&logoColor=white)
+![IT Process Automation](https://img.shields.io/badge/IT%20Process%20Automation-FF6B35?style=flat&logo=githubactions&logoColor=white)
+
+## Supporting My Work
+Supporting my work is completely optional.
+The projects on this GitHub profile are available openly and are not placed behind a paywall.
+However, developing and maintaining open-source software requires time and resources. Testing environments, hosting, development software, certificates, infrastructure, documentation, and ongoing maintenance can all create costs.
+If one of my scripts, applications, or automation tools saves you time, solves a problem, or provides value to your organization, you can support my work through a voluntary donation on Patreon:
+
+- [Patreon](https://www.patreon.com/cw/u60965958) 
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/fardin-barashi-a56310a2/)
+
+## GitHub stars
 ![GitHub stars](https://img.shields.io/github/stars/fardinbarashi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-
+---
 
 ### Current Projects
 #### C# :
 ```
  1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor.
- 1.1) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
+ 2) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
 ```
-
 
 #### PS :
 ```
- 2). Entra-Inventory, A solution for exporting, documenting, and visualizing Entra ID configurations and relationships.
- 3).Automated documentation of Windows Servers, installed roles, and configurations.
+1). Entra-Inventory, A solution for exporting, documenting, and visualizing Entra ID configurations and relationships.
+2).Automated documentation of Windows Servers, installed roles, and configurations.
 ```
 
-#### Some links projects :
+---
+### Completed projects :
 
 ##### 1)  ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace) : Search after content in text-files
 ![](https://raw.githubusercontent.com/fardinbarashi/psGuiTextTrace/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/texttracelogo.png) 
@@ -60,23 +94,8 @@ Azure
 ![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/pstodologo.png)
 ![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/wwebdashboard.jpg)
 
-## 🚀 Technologies & Tool
-![C#](https://img.shields.io/badge/Csharp-svg)
-![Powershell#](https://img.shields.io/badge/powershell-svg)
-![Blazor](https://img.shields.io/badge/Blazor-svg)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-svg)
-![MS-SQL](https://img.shields.io/badge/MSSQL-svg)
 
-## 📈 GitHub Stats
 
-![Fardin's GitHub stats](https://github-readme-stats.vercel.app/api?username=fardinbarashi&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/fardin-barashi-a56310a2/)
+
 
