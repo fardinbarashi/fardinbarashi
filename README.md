@@ -40,7 +40,7 @@ Azure
 #### Some links projects :
 
 ##### 1)  ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace) : Search after content in text-files
-![](https://github.com/fardinbarashi/psGuiTextTrace/blob/main/Assets/2.jpg)
+![](https://github.com/fardinbarashi/psGuiTextTrace/blob/main/githubRepoContentDeleteIfYouWant/IMG/1.jpg)
 ##### 2). ![Rolf](https://github.com/fardinbarashi/psGuiAndScriptRolf) : Remote-Remove local profiles on win11 and win10
 ![](https://github.com/fardinbarashi/psGuiAndScriptRolf/blob/main/Assets/7.jpg)
 ##### 3). [FileEncrypter](https://github.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt)  : Encrypt files with password
