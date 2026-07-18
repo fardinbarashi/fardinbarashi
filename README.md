@@ -57,8 +57,8 @@ Azure
 
 
 ##### 5). ![psToDo](https://github.com/fardinbarashi/psToDo) : is a tool, powerShell solution that watches expiry dates in a JSON file and alerts a team by mail and Microsoft Teams before things like upgrade-notifcations to teams, certificates, secrets, tokens, host keys, license deadline and much more lapse.
-![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/img/pstodologo.png)
-![](https://github.com/fardinbarashi/psToDo/blob/main/img/wwebdashboard.jpg)
+![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/pstodologo.png)
+![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/wwebdashboard.jpg)
 
 ## 🚀 Technologies & Tool
 ![C#](https://img.shields.io/badge/Csharp-svg)
