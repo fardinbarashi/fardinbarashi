@@ -83,10 +83,10 @@ If one of my scripts, applications, or automation tools saves you time, solves a
 
 ##### 3). [FileEncrypter](https://github.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt)  : Encrypt files with password
 ![](https://raw.githubusercontent.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/passwordlogo.png)
-![](https://raw.githubusercontent.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/passwordlogo.png)
+![](https://raw.githubusercontent.com/fardinbarashi/psGuiFilePasswordEncryptDecrypt/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/1.jpg)
 
 ##### 4). ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC) : is a XAML-Tool for testing OpenID Connect (OIDC) flows from a Windows client
-![](https://raw.githubusercontent.com/fardinbarashi/psGuiPowerOIDC/refs/heads/main/assets/oidclogo.png)
+![](https://raw.githubusercontent.com/fardinbarashi/psGuiPowerOIDC/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/oidclogo.png)
 ![](https://raw.githubusercontent.com/fardinbarashi/psGuiPowerOIDC/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/1.jpg)
 
 
