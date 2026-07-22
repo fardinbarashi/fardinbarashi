@@ -44,9 +44,9 @@ My projects may include tools for:
 ## Supporting My Work
 Supporting my work is completely optional.
 The projects on this GitHub profile are available openly and are not placed behind a paywall.
-However, developing and maintaining open-source software requires time and resources. Testing environments, hosting, development software, certificates, infrastructure, documentation, and ongoing maintenance can all create costs.
-If one of my scripts, applications, or automation tools saves you time, solves a problem, or provides value to your organization, you can support my work through a voluntary donation on Patreon:
+If one of my scripts, applications, or automation tools saves you time, solves a problem, or provides value to your organization, you can support my work through by giving my projects a star and fork it too, that makes my day!
 
+However if you want support my work further i have Patreon:
 - [Patreon](https://www.patreon.com/cw/u60965958) 
 
 ## Connect with Me
