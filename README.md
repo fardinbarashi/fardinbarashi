@@ -58,16 +58,31 @@ However if you want support my work further i have Patreon:
 ---
 
 ### Current Projects
+
+#### PS :
+# psAutoDocs
+![](https://raw.githubusercontent.com/fardinbarashi/psAutoDocs/refs/heads/main/githubRepoContentDeleteIfYouWant/img/logo.png)
+
+```
+psAutoDocs: Entra-Inventory, A solution for exporting,
+- Csv
+- Json
+- Excel
+
+Visualizing
+- svg
+- vsdx
+
+Documenting
+- Word
+- Excel
+and  Entra ID configurations and relationships
+```
+
 #### C# :
 ```
  1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor.
  2) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
-```
-
-#### PS :
-```
-1). Entra-Inventory, A solution for exporting, documenting, and visualizing Entra ID configurations and relationships.
-2).Automated documentation of Windows Servers, installed roles, and configurations.
 ```
 
 ---
