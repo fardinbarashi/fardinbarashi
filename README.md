@@ -60,23 +60,23 @@ However if you want support my work further i have Patreon:
 ### Current Projects
 
 #### PS :
-# psAutoDocs
+##### ![psAutoDocs](https://github.com/fardinbarashi/psAutoDocs/tree/main)
 ![](https://raw.githubusercontent.com/fardinbarashi/psAutoDocs/refs/heads/main/githubRepoContentDeleteIfYouWant/img/logo.png)
 
+
 ```
-psAutoDocs: Entra-Inventory, A solution for exporting,
+psAutoDocs: Entra-Inventory, A solution for exporting and Entra ID configurations and relationships
 - Csv
 - Json
 - Excel
 
 Visualizing
 - svg
-- vsdx
 
 Documenting
 - Word
 - Excel
-and  Entra ID configurations and relationships
+
 ```
 
 #### C# :
