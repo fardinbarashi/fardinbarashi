@@ -81,7 +81,7 @@ Documenting
 
 #### C# :
 ```
- 1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor.
+ 1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor, change password, add to groups etc
  2) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
 ```
 
@@ -108,6 +108,11 @@ Documenting
 ##### 5). ![psToDo](https://github.com/fardinbarashi/psToDo) : is a tool, powerShell solution that watches expiry dates in a JSON file and alerts a team by mail and Microsoft Teams before things like upgrade-notifcations to teams, certificates, secrets, tokens, host keys, license deadline and much more lapse.
 ![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/pstodologo.png)
 ![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/wwebdashboard.jpg)
+
+##### 6). ![AdPasswordChanger](https://github.com/fardinbarashi/psGuiAdPasswordChanger/tree/main) : A PowerShell GUI for resetting user passwords in on‑prem **Active Directory**
+![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/logo.png)
+![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/1.jpg)
+![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/2.jpg)
 
 
 
