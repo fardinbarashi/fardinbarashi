@@ -46,6 +46,21 @@ Supporting my work is completely optional.
 The projects on this GitHub profile are available openly and are not placed behind a paywall.
 If one of my scripts, applications, or automation tools saves you time, solves a problem, or provides value to your organization, you can support my work through by giving my projects a star and fork it too, that makes my day!
 
+### Future Projects
+```
+psAutoDocs: solution for exporting configurations and relationships and map it visualy and with word and visio
+ - Entra ID
+ - Windows server roles
+
+```
+
+#### C# :
+```
+ 1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor, change password, add to groups etc
+ 2) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
+ 3) Onprem Password changer for accounts
+ 4) Cloud password changer for accounts
+
 However if you want support my work further i have Patreon:
 - [Patreon](https://www.patreon.com/cw/u60965958) 
 
@@ -56,6 +71,9 @@ However if you want support my work further i have Patreon:
 ![GitHub stars](https://img.shields.io/github/stars/fardinbarashi?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
+
+
+
 
 ### Current Projects
 
@@ -113,9 +131,3 @@ Documenting
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/logo.png)
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/1.jpg)
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/2.jpg)
-
-
-
-
-
-
