@@ -105,3 +105,17 @@ However if you want support my work further i have Patreon:
 #### Backend C# : 
 ###### 1) 
 
+---
+#### Chrome Addons : 
+###### 1). ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC/tree/main/Browser%20extensions)
+
+---
+#### Edge Addons : 
+###### 1) ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC/tree/main/Browser%20extensions)
+
+---
+#### Firefox Addons : 
+###### 1) ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC/tree/main/Browser%20extensions)
+
+
+
