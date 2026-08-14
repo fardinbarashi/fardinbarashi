@@ -46,20 +46,20 @@ Supporting my work is completely optional.
 The projects on this GitHub profile are available openly and are not placed behind a paywall.
 If one of my scripts, applications, or automation tools saves you time, solves a problem, or provides value to your organization, you can support my work through by giving my projects a star and fork it too, that makes my day!
 
-### Future Projects
+### Current and Future Projects
 ```
-psAutoDocs: solution for exporting configurations and relationships and map it visualy and with word and visio
+Backend Powershell: 
+ 1) psAutoDocs: solution for exporting configurations and relationships and map it visualy and with word and visio
  - Entra ID
  - Windows server roles
 
-```
-
-#### C# :
-```
+C#
  1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor, change password, add to groups etc
  2) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
  3) Onprem Password changer for accounts
  4) Cloud password changer for accounts
+
+```
 
 However if you want support my work further i have Patreon:
 - [Patreon](https://www.patreon.com/cw/u60965958) 
@@ -73,40 +73,10 @@ However if you want support my work further i have Patreon:
 ---
 
 
-
-
-### Current Projects
-
-#### PS :
-##### ![psAutoDocs](https://github.com/fardinbarashi/psAutoDocs/tree/main)
-![](https://raw.githubusercontent.com/fardinbarashi/psAutoDocs/refs/heads/main/githubRepoContentDeleteIfYouWant/img/logo.png)
-
-
-```
-psAutoDocs: Entra-Inventory, A solution for exporting and Entra ID configurations and relationships
-- Csv
-- Json
-- Excel
-
-Visualizing
-- svg
-
-Documenting
-- Word
-- Excel
-
-```
-
-#### C# :
-```
- 1) HR Onboarding, Simple onboarding and offboarding platform for Entra ID built in C# blazor, change password, add to groups etc
- 2) A web portal that allows group owners to manage the Entra ID groups they own built in C# blazor.
-```
-
----
 ### Completed projects :
 
-##### 1)  ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace) : Search after content in text-files
+#### Backend Powershell : 
+###### 1)  ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace) : Search after content in text-files
 ![](https://raw.githubusercontent.com/fardinbarashi/psGuiTextTrace/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/texttracelogo.png) 
 ![](https://github.com/fardinbarashi/psGuiTextTrace/blob/main/githubRepoContentDeleteIfYouWant/IMG/1.jpg)
 
@@ -122,7 +92,6 @@ Documenting
 ![](https://raw.githubusercontent.com/fardinbarashi/psGuiPowerOIDC/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/oidclogo.png)
 ![](https://raw.githubusercontent.com/fardinbarashi/psGuiPowerOIDC/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/1.jpg)
 
-
 ##### 5). ![psToDo](https://github.com/fardinbarashi/psToDo) : is a tool, powerShell solution that watches expiry dates in a JSON file and alerts a team by mail and Microsoft Teams before things like upgrade-notifcations to teams, certificates, secrets, tokens, host keys, license deadline and much more lapse.
 ![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/pstodologo.png)
 ![](https://raw.githubusercontent.com/fardinbarashi/psToDo/refs/heads/main/githubRepoContentDeleteIfYouWant/IMG/wwebdashboard.jpg)
@@ -131,3 +100,8 @@ Documenting
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/logo.png)
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/1.jpg)
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/2.jpg)
+
+---
+#### Backend C# : 
+###### 1) 
+
