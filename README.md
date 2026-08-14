@@ -9,21 +9,6 @@ Most projects begin with a simple question:
 ## What You’ll Find Here
 I build practical tools and automation primarily around:
 
-My projects may include tools for:
-* Microsoft Entra ID administration
-* Employee onboarding and offboarding
-* Identity and Access Management
-* Microsoft 365 automation
-* User, group, and membership management
-* Authentication and authorization testing
-* Certificate and secret monitoring
-* Windows Server administration
-* Environment inventory and documentation
-* File management and encryption
-* Local Windows profile management
-* General PowerShell and C# automation
-
-
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
