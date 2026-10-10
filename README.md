@@ -86,6 +86,13 @@ However if you want support my work further i have Patreon:
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/1.jpg)
 ![](https://github.com/fardinbarashi/psGuiAdPasswordChanger/blob/main/githubRepoContentDeleteIfYouWant/2.jpg)
 
+##### 6). ![psAutoDocs](https://github.com/fardinbarashi/psAutoDocs) : A PowerShell tool for generating comprehensive Microsoft Entra ID documentation and reports in Excel, KPI dashboards, SVG, HTML, and Microsoft Word.
+![](https://raw.githubusercontent.com/fardinbarashi/psAutoDocs/refs/heads/main/githubRepoContentDeleteIfYouWant/img/logo.png)
+![](https://github.com/fardinbarashi/psAutoDocs/blob/main/githubRepoContentDeleteIfYouWant/screenshots/excel10.jpg)
+![](https://raw.githubusercontent.com/fardinbarashi/psAutoDocs/refs/heads/main/githubRepoContentDeleteIfYouWant/screenshots/svg/EntraID%20-%20Hub.jpg)
+![](https://raw.githubusercontent.com/fardinbarashi/psAutoDocs/refs/heads/main/githubRepoContentDeleteIfYouWant/screenshots/svg/RBAC%20matrix%20roles%20x%20people%202.jpg)
+
+
 ---
 #### Backend C# : 
 ###### 1) 
