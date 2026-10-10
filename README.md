@@ -98,16 +98,22 @@ However if you want support my work further i have Patreon:
 ###### 1) 
 
 ---
-#### Chrome Addons : 
+#### Browser addons to Chrome,Edge and Firefox:
+##### Github : 
 ###### 1). ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC/tree/main/Browser%20extensions)
-
+###### 2). ![TextTrace](https://github.com/fardinbarashi/psGuiTextTrace/tree/main/Browser-Addon)
 ---
-#### Edge Addons : 
-###### 1) ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC/tree/main/Browser%20extensions)
-
+##### Chrome : 
+###### 1). ![PowerOIDC](https://chromewebstore.google.com/detail/poweroidc/fnpdcaiogpeajelblmfncjpgljgcpmnn)
+###### 2). ![TextTrace](https://chromewebstore.google.com/detail/texttrace/cpolfjnnadbajfflpbegmhplphgngemm)
 ---
-#### Firefox Addons : 
-###### 1) ![PowerOIDC](https://github.com/fardinbarashi/psGuiPowerOIDC/tree/main/Browser%20extensions)
+##### Firefox : 
+###### 1). ![PowerOIDC](https://addons.mozilla.org/en-US/firefox/addon/poweroidc/)
+###### 2). ![TextTrace](https://addons.mozilla.org/en-US/firefox/addon/texttrace/)
+---
+##### Edge : 
+
+
 
 
 
