@@ -94,6 +94,10 @@ However if you want support my work further i have Patreon:
 
 
 ---
+#### Android App : 
+###### 1). ![Floatshot](https://github.com/fardinbarashi/AppFloatShotAndroid) : A small Android app, floating camera button to take sceenshots.
+![](https://github.com/fardinbarashi/AppFloatShotAndroid/blob/main/githubRepoContentDeleteIfYouWant/logo.jpg)
+---
 #### Backend C# : 
 ###### 1) 
 
@@ -112,6 +116,11 @@ However if you want support my work further i have Patreon:
 ###### 2). ![TextTrace](https://addons.mozilla.org/en-US/firefox/addon/texttrace/)
 ---
 ##### Edge : 
+
+
+---
+#### CVE : 
+###### 1). ![PHP-CVE-2026-109618-and-CVE-2026-109619](https://github.com/fardinbarashi/PHP-CVE-2026-109618-and-CVE-2026-109619) : A script to check if server has PHP
 
 
 
