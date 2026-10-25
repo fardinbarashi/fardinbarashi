@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub
 
-Hi, I’m Fardin — a developer and IT professional based in Sweden.
+Hi, I’m Fardin — working with IAM tech in Windows,a developer and IT professional based in Sweden.
 Most of my projects are created to solve real administrative and technical problems. I focus on replacing repetitive, time-consuming, and error-prone manual processes with reliable scripts, applications, and automation tools.
 Most projects begin with a simple question:
 > **Why are we still doing this manually?**
